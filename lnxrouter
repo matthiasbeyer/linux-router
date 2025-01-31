@@ -28,7 +28,7 @@ Options:
     -i <interface>          Interface to make NATed sub-network,
                             and to provide Internet to
                             (To create WiFi hotspot use '--ap' instead)
-    -o <interface>          Specify an inteface to provide Internet from.
+    -o <interface>          Specify an interface to provide Internet from.
                             (Note using this with default DNS option may leak
                             queries to other interfaces)
     -n                      Do not provide Internet
